@@ -3,7 +3,7 @@
     <h3>Backend developer from Donetsk</h3>
 </div>
 <div id="social" align="center">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
+    <a href="https://t.me/jnecua123"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/></a>
 </div>
 
 ### About Me
