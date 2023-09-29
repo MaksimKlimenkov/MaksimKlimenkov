@@ -9,7 +9,7 @@
 ### About Me
 - 👋 Hi, I’m @MaksimKlimenkov
 - 🥁 I’m interested in drums
-- 🌱 I’m currently learning Spring Framework
+- 🌱 I’m currently learning .NET (In Depth)/ASP.Net Core
 - 📫 Reach me by telegram
 
 ### Languages and Tools     
