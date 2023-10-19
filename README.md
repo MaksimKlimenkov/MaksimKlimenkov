@@ -4,12 +4,13 @@
 </div>
 <div id="social" align="center">
     <a href="https://t.me/jnecua123"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/></a>
+    <a href="https://leetcode.com/jnecua123/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fjnecua123&logo=leetcode&logoColor=yellow" /></a>
 </div>
 
 ### About Me
 - 👋 Hi, I’m @MaksimKlimenkov
 - 🥁 I’m interested in drums
-- 🌱 I’m currently learning .NET (In Depth)/ASP.Net Core
+- 🌱 I’m currently learning PostgreSQL
 - 📫 Reach me by telegram
 
 ### Languages and Tools     
