@@ -10,14 +10,13 @@
 ### About Me
 - 👋 Hi, I’m @MaksimKlimenkov
 - 🥁 I’m interested in drums
-- 🌱 I’m currently learning PostgreSQL
+- 🌱 I’m currently learning ASP.NET Core Web API + Entity Framework 7
 - 📫 Reach me by telegram
 
 ### Languages and Tools     
 <div display="inline-block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="50" />           
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />          
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="50" />
