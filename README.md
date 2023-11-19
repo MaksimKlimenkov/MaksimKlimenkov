@@ -10,7 +10,7 @@
 ### About Me
 - 👋 Hi, I’m @MaksimKlimenkov
 - 🥁 I’m interested in drums
-- 🌱 I’m currently learning ASP.NET Core Web API + Entity Framework 7
+- 🌱 I’m currently learning ASP.NET Core Web API
 - 📫 Reach me by telegram
 
 ### Languages and Tools     
